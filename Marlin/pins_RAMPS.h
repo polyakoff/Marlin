@@ -330,6 +330,14 @@
 
 #if ENABLED(ULTRA_LCD)
 
+/////////////////////////////////////
+// Defined custom pins for encoder //
+/////////////////////////////////////
+
+//#define BTN_EN1 31          // Encoder left direction
+//#define BTN_EN2 35          // Encoder right direction
+//#define BTN_ENC 37          // Encoder Click
+
   //
   // LCD Display output pins
   //
